@@ -2,9 +2,9 @@ package br.com.google.repository;
 
 public class InicialGoogleRepository {
 
-	//ID
+	// ID
 	public static String logoGoogle = "hplogo";
-	
-	//XPath
+
+	// XPath
 	public static String txtPesquisa = "//input[contains(@title,'Pesquisar')]";
 }

@@ -2,10 +2,10 @@ package br.com.google.repository;
 
 public class ResultadoPesquisaRepository {
 
-	//ID
+	// ID
 	public static String lblQtdeResultBusca = "resultStats";
-	
-	//XPath
+
+	// XPath
 	public static String lblLancamentoFilme = "//span[contains(text(),'xxx')]/../following-sibling::div/span";
-		
+
 }
